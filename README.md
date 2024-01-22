@@ -40,6 +40,10 @@ Associate Relevant Subnets:  <br/>
 <br />
 Add Routes to IGW for Access to the public internet:  <br/>
 <img src="https://i.imgur.com/KAykhdD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Auto Ipv4 and Ipv6 public IP's:  <br/>
+<img src="https://i.imgur.com/H7lWnJM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
