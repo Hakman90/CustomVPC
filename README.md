@@ -44,6 +44,10 @@ Add Routes to IGW for Access to the public internet:  <br/>
 <br />
 Auto Ipv4 and Ipv6 public IP's:  <br/>
 <img src="https://i.imgur.com/H7lWnJM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Create Nat Gateway in public subnet to allow resources in private subnet access to the public internet:  <br/>
+<img src="https://i.imgur.com/D5kVVRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
