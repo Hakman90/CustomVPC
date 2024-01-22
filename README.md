@@ -1,7 +1,7 @@
 <h1>Custom VPC</h1>
 
 <h2>Description</h2>
-This Project shows you how to create a custom vpc, allocating ip ranges for subnets, creating private and public subnets, IGW and A Nat Gateway
+This Project shows you how to create a custom vpc, allocating ip ranges for subnets, creating private and public subnets, IGW, Nat Gateway and Route Tables
 <br />
 
 <h2>Project walk-through:</h2>
