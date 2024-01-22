@@ -32,6 +32,10 @@ Attatch the IGW to your VPC:  <br/>
 <br />
 Create Route Tables:  <br/>
 <img src="https://i.imgur.com/WuUSgix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br />
+<br />
+Associate Relevant Subnets:  <br/>
+<img src="https://i.imgur.com/p639epz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
