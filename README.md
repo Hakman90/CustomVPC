@@ -36,6 +36,10 @@ Create Route Tables:  <br/>
 <br />
 Associate Relevant Subnets:  <br/>
 <img src="https://i.imgur.com/p639epz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <br />
+<br />
+Add Routes to IGW for Access to the public internet:  <br/>
+<img src="https://i.imgur.com/KAykhdD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
