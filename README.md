@@ -14,8 +14,8 @@ Create VPC: <br/>
 <img src="https://i.imgur.com/ovfjHJi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a replication rule:  <br/>
-<img src="https://i.imgur.com/U0r8mxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable DNS Hostnames:  <br/>
+<img src="https://i.imgur.com/898x6Na.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Two Way Replication Complete: <br/>
