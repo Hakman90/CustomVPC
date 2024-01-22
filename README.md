@@ -51,7 +51,7 @@ Create Nat Gateway in public subnet to allow resources in private subnet access 
   <br />
 <br />
 Edit the private subnet's routes to route to NAT Gateway:  <br/>
-<img src="https://i.imgur.com/fjcyOER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rYtqy5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
