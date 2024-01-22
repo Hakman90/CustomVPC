@@ -48,6 +48,10 @@ Auto Ipv4 and Ipv6 public IP's:  <br/>
 <br />
 Create Nat Gateway in public subnet to allow resources in private subnet access to the public internet:  <br/>
 <img src="https://i.imgur.com/D5kVVRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br />
+<br />
+Edit the private subnet's routes to route to NAT Gateway:  <br/>
+<img src="https://i.imgur.com/fjcyOER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
