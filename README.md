@@ -1,7 +1,7 @@
 <h1>Custom VPC</h1>
 
 <h2>Description</h2>
-This Project shows you how to create an S3 Multi-Region Access point, which enables failover and replication between 2 or more buckets .
+This Project shows you how to create a custom vpc, allocating ip ranges for subnets, creating private and public subnets, IGW and A Nat Gateway
 <br />
 
 <h2>Project walk-through:</h2>
@@ -20,7 +20,16 @@ Enable DNS Hostnames:  <br/>
 <br />
 Create Subnets: <br/>
 <img src="https://i.imgur.com/nn4JU2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create an IGW:  <br/>
+<img src="https://i.imgur.com/Uq56wrN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Attatch the IGW to your VPC:  <br/>
+<img src="https://i.imgur.com/AcwDOPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 
 <!--
  ```diff
