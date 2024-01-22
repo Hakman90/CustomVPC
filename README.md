@@ -18,8 +18,8 @@ Enable DNS Hostnames:  <br/>
 <img src="https://i.imgur.com/898x6Na.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Two Way Replication Complete: <br/>
-<img src="https://i.imgur.com/cGovbpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Subnets: <br/>
+<img src="https://i.imgur.com/nn4JU2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
