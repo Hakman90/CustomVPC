@@ -1,7 +1,7 @@
 <h1>Custom VPC</h1>
 
 <h2>Description</h2>
-This Project shows you how to create an S3 Multi-Region Acces point, which enables failover and replication between 2 or more buckets .
+This Project shows you how to create an S3 Multi-Region Access point, which enables failover and replication between 2 or more buckets .
 <br />
 
 <h2>Project walk-through:</h2>
