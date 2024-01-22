@@ -10,8 +10,8 @@ This Project shows you how to create an S3 Multi-Region Access point, which enab
 Refer to your VPC plan and structure your VPC according to it: <br/>
 <img src="https://i.imgur.com/XavBavC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Create the Multi Region Access Point: <br/>
-<img src="https://i.imgur.com/iz7lNjU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create VPC: <br/>
+<img src="https://i.imgur.com/ovfjHJi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a replication rule:  <br/>
