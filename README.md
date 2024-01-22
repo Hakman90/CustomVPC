@@ -28,6 +28,10 @@ Create an IGW:  <br/>
 <br />
 Attatch the IGW to your VPC:  <br/>
 <img src="https://i.imgur.com/AcwDOPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Create Route Tables:  <br/>
+<img src="https://i.imgur.com/WuUSgix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
